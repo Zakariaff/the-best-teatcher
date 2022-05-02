@@ -1,0 +1,51 @@
+h1
+{
+	color: red;
+}
+
+body
+{
+	background-color: gold;
+}
+
+#msg 
+{
+
+	width: 800px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+	background-color: white;
+}
+
+h3
+{
+	color: grey;
+}
+
+
+p
+{
+	color: green;
+}
+
+H6
+{
+	color: red;
+}
+
+p5
+{
+	color: blue;
+}
+
+p7
+{
+	color: brown;
+}
+
+H7
+{
+	color: purple;
+}
